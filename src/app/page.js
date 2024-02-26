@@ -38,11 +38,11 @@ export default function Home() {
             {" "}
             a song by American singer-songwriter SZA (pictured) from her second
             studio album, SOS (2022), featuring American rapper Travis Scott. It
-            is one of the album's guitar- backed acoustic ballads, exploring a
-            style of music that departs from SZA's usual R& B-leaning sound. Her
+            is one of the albums guitar- backed acoustic ballads, exploring a
+            style of music that departs from SZAs usual R& B-leaning sound. Her
             deceased grandmother, whose vocals were in the album preceding SOS,
             appears in the song as a way of paying tribute. With lyrics about
-            trying to stay with an ex-lover, "Open Arms" is addressed to a
+            trying to stay with an ex-lover, Open Arms is addressed to a
             subject whom the
           </p>
           <button className={styles.button3}>See How It Works</button>
@@ -79,10 +79,10 @@ export default function Home() {
       <div className={styles.inner_div_6}>
         <h3>Technology To Bring Small And Large<br/> Businesses On a Collaboration <br/> Platfrom</h3>
         <p>a song by American singer-songwriter SZA (pictured) from her second studio album, SOS (2022),
-           featuring American rapper Travis Scott. It is one of the album's guitar- backed acoustic ballads,
-            exploring a style of music that departs from SZA's usual R& B-leaning sound. Her deceased 
+           featuring American rapper Travis Scott. It is one of the albums guitar- backed acoustic ballads,
+            exploring a style of music that departs from SZAs usual R& B-leaning sound. Her deceased 
             grandmother, whose vocals were in the album preceding SOS, appears in the song as a way of 
-            paying tribute. With lyrics about trying to stay with an ex-lover, "Open Arms" is addressed to
+            paying tribute. With lyrics about trying to stay with an ex-lover, Open Arms is addressed to
              a subject whom the</p>
         <button className={styles.button4}>Explore</button>
       </div>
